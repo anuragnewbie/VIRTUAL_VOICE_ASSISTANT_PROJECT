@@ -12,7 +12,6 @@ import os
 from tkinter import *
 import smtplib
 from email.message import EmailMessage
-# from getpass import win_getpass
 import math
 
 
