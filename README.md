@@ -17,6 +17,9 @@ Rest of the modules comes with the Python package itself. So no need to download
 In this program I have mentioned the path of the microsoft word, miscrosoft powerpoint, microsoft excel, settings and pycharm that is according to my system. 
 Please you change this path to the one to which all these softwares are stored in your systems.
 
+You need to include the image "ironmanjarvis.png" in your project folder or else you may get an error while running this project. Since its a GUI based project.
+I have also uploaded the image in my repository.
+
 Hope you will like it. If there is any features or any improvements that can be made to this project pls feel free to do that.
 
 Thank you ! :-)
